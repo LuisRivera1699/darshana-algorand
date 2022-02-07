@@ -1,4 +1,4 @@
-# darshana-algorand
+# Darshana Algorand Assets (ASAs) Creation
 
 # Requirements
 
